@@ -1,0 +1,17 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0 auto 36px;
+  max-width: 470px;
+}
+.label {
+  font-size: 24px;
+}
+
+.input {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: larger;
+}

@@ -1,0 +1,27 @@
+.contactBox {
+  display: flex;
+  gap: 14px;
+  flex-direction: column;
+}
+
+.nameBox,
+.numberBox {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.name {
+  font-weight: normal;
+  font-size: 28px;
+}
+
+.number {
+  font-size: 24px;
+}
+
+.btn {
+  padding: 10px 14px;
+  font-size: 18px;
+  border-radius: 6px;
+}
